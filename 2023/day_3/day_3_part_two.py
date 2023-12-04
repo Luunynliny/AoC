@@ -1,7 +1,7 @@
 from icecream import ic
 
-example = "./part_one_example.txt"
-puzzle = "./puzzle_input.txt"
+example = "./example.txt"
+puzzle = "./puzzle.txt"
 
 matrix = []
 

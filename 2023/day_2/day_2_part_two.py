@@ -1,7 +1,7 @@
 import re
 
 example = "./example.txt"
-puzzle = "./puzzle_input.txt"
+puzzle = "./puzzle.txt"
 
 with open(puzzle) as f:
     lines = f.read().splitlines()
