@@ -22,5 +22,4 @@ for i, line in enumerate(lines):
 
         cards_count[i + j + 1] += 1 * cards_count[i]
 
-ic(cards_count)
 ic(sum(cards_count))

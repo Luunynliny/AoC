@@ -28,7 +28,7 @@ for i, row in enumerate(matrix):
             if j < len(row) - 1:
                 continue
 
-        elif c != ".":
+        elif c == "*":
             if symbol_dict.get(i):
                 symbol_dict[i].append(j)
             else:
@@ -45,13 +45,12 @@ for i, row in enumerate(matrix):
 
             number_str = ""
 
-ic(number_dict)
-ic(symbol_dict)
-
-part_number_sum = 0
+gear_ratio_sum = 0
 
 for row in [int(r) for r in symbol_dict.keys()]:
     for col in symbol_dict[row]:
+        gear_ratio = []
+
         for y in range(-1, 2):
             for x in range(-1, 2):
                 if x == 0 and y == 0:
@@ -79,8 +78,15 @@ for row in [int(r) for r in symbol_dict.keys()]:
                     if not (s_i <= ncol <= e_i):
                         continue
 
-                    part_number_sum += number_dict[nrow][key]
+                    gear_ratio.append(number_dict[nrow][key])
 
                     del number_dict[nrow][key]
 
-ic(part_number_sum)
+        if len(gear_ratio) >= 2:
+            ratio = 1
+            for r in gear_ratio:
+                ratio *= r
+
+            gear_ratio_sum += ratio
+
+ic(gear_ratio_sum)

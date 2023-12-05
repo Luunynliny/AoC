@@ -1,6 +1,6 @@
 import re
 
-example = "./part_two_example.txt"
+example = "./example_two.txt"
 puzzle = "./puzzle.txt"
 
 with open(puzzle) as f:
