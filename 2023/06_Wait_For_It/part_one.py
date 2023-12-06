@@ -12,12 +12,12 @@ distances = list(map(int, lines[1].split()[1:]))
 ways_product = 1
 
 for i, t in enumerate(times):
-    win_count = 0
+    wins_count = 0
 
     for d in ((t - h) * h for h in range(t + 1)):
         if d > distances[i]:
-            win_count += 1
+            wins_count += 1
 
-    ways_product *= win_count
+    ways_product *= wins_count
 
 ic(ways_product)
