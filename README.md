@@ -101,6 +101,14 @@
             <td>0.043</td>
             <td>7.090</td>
         </tr>
+        <tr>
+            <td>7</td>
+            <td><a href="https://adventofcode.com/2023/day/7">Camel Cards</a></td>
+            <td>✅</td>
+            <td>✅</td>
+            <td>0.065</td>
+            <td>0.066</td>
+        </tr>
     </tboby>
 </table>
 </details>
