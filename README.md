@@ -85,6 +85,14 @@
             <td>0.046</td>
             <td>0.045</td>
         </tr>
+        <tr>
+            <td>5</td>
+            <td><a href="https://adventofcode.com/2023/day/5">If You Give A Seed A Fertilizer</a></td>
+            <td>✅</td>
+            <td>✅</td>
+            <td>0.050</td>
+            <td>642.96</td>
+        </tr>
     </tboby>
 </table>
 </details>
