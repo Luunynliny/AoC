@@ -52,12 +52,16 @@
             <th>Part 2</th>
         </tr>
     </thead>
-    <!-- <tr>
-        <td>1</td>
-        <td><a href="https://adventofcode.com/2023/day/1">Trebuchet?!</a></td>
-        <td>✅</td>
-        <td></td>
-    </tr> -->
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td><a href="https://adventofcode.com/2023/day/1">Trebuchet?!</a></td>
+            <td>✅</td>
+            <td>✅</td>
+            <td>0.044</td>
+            <td>0.047</td>
+        </tr>
+    </tboby>
 </table>
 </details>
 
