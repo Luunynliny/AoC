@@ -77,6 +77,14 @@
             <td>0.084</td>
             <td>0.076</td>
         </tr>
+        <tr>
+            <td>4</td>
+            <td><a href="https://adventofcode.com/2023/day/4">Scratchcards</a></td>
+            <td>✅</td>
+            <td>✅</td>
+            <td>0.046</td>
+            <td>0.045</td>
+        </tr>
     </tboby>
 </table>
 </details>
