@@ -61,6 +61,14 @@
             <td>0.044</td>
             <td>0.047</td>
         </tr>
+        <tr>
+            <td>1</td>
+            <td><a href="https://adventofcode.com/2023/day/2">Cube Conundrum</a></td>
+            <td>✅</td>
+            <td>✅</td>
+            <td>0.044</td>
+            <td>0.044</td>
+        </tr>
     </tboby>
 </table>
 </details>
