@@ -33,6 +33,19 @@
 
 ## Years
 
+<details>
+<summary>
+    <a href="https://adventofcode.com/2023">2023</a>
+</summary>
+<table>
+    <tr>
+        <th>Day</th>
+        <th>Problem name</th>
+        <th>Completion</th>
+        <th>Execution time (s)</th>
+    </tr>
+</table>
+</details>
 
 <p align="right"><a href="#top"><i>back to top</i></a></p>
 
