@@ -2,6 +2,7 @@
 
 <!-- PROJECT SHIELDS -->
 
+[![python](https://badges.aleen42.com/src/python.svg)](https://www.python.org/)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 <!-- PROJECT LOGO -->
@@ -23,9 +24,13 @@
 
 ## About
 
-> [Advent of Code](https://adventofcode.com/) is an advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like.
+> Advent of Code is an advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like.
 >
 > &mdash; Eric Wastl
+
+This repository gathers all my participations throughout the different edition of the [Advent of Code](https://adventofcode.com/) event.
+
+My entries are not further optimized after completion, as I want them to reflect how I approach problems and write code on the fly. However, I try to always provide a solution that can produce the desired output in a reasonable amount of time.
 
 <p align="right"><a href="#top"><i>back to top</i></a></p>
 
