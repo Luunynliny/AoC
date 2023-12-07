@@ -1,7 +1,12 @@
+from time import perf_counter
+
 import numpy as np
+from icecream import ic
 
 example = "./example.txt"
 puzzle = "./puzzle.txt"
+
+timer = perf_counter()
 
 with open(puzzle) as f:
     lines = f.read()
@@ -29,4 +34,7 @@ for mi in maps_input:
 
     seeds += incr
 
-print(seeds.min())
+ic(seeds.min())
+
+exec_time = perf_counter() - timer
+ic(exec_time)

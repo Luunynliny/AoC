@@ -1,7 +1,12 @@
 import re
+from time import perf_counter
+
+from icecream import ic
 
 example = "./example.txt"
 puzzle = "./puzzle.txt"
+
+timer = perf_counter()
 
 with open(puzzle) as f:
     lines = f.read().splitlines()
@@ -24,4 +29,7 @@ for game in lines:
     )
     game_power_sum += game_power
 
-print(game_power_sum)
+ic(game_power_sum)
+
+exec_time = perf_counter() - timer
+ic(exec_time)

@@ -1,7 +1,12 @@
 import re
+from time import perf_counter
+
+from icecream import ic
 
 example = "./example_one.txt"
 puzzle = "./puzzle.txt"
+
+timer = perf_counter()
 
 with open(puzzle) as f:
     lines = f.readlines()
@@ -16,4 +21,7 @@ for line in lines:
     else:
         calibration_sum += int(digits[0]) * 10 + int(digits[-1])
 
-print(calibration_sum)
+ic(calibration_sum)
+
+exec_time = perf_counter() - timer
+ic(exec_time)

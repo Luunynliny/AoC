@@ -1,7 +1,11 @@
+from time import perf_counter
+
 from icecream import ic
 
 example = "./example.txt"
 puzzle = "./puzzle.txt"
+
+timer = perf_counter()
 
 with open(puzzle) as f:
     lines = f.readlines()
@@ -21,3 +25,6 @@ for i, t in enumerate(times):
     ways_product *= wins_count
 
 ic(ways_product)
+
+exec_time = perf_counter() - timer
+ic(exec_time)

@@ -1,7 +1,11 @@
+from time import perf_counter
+
 from icecream import ic
 
 example = "./example.txt"
 puzzle = "./puzzle.txt"
+
+timer = perf_counter()
 
 matrix = []
 
@@ -81,3 +85,6 @@ for row in [int(r) for r in symbol_dict.keys()]:
                     del number_dict[nrow][key]
 
 ic(part_number_sum)
+
+exec_time = perf_counter() - timer
+ic(exec_time)

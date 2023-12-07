@@ -1,7 +1,11 @@
+from time import perf_counter
+
 from icecream import ic
 
 example = "./example.txt"
 puzzle = "./puzzle.txt"
+
+timer = perf_counter()
 
 with open(puzzle) as f:
     lines = f.read().splitlines()
@@ -23,3 +27,6 @@ for i, line in enumerate(lines):
         cards_count[i + j + 1] += 1 * cards_count[i]
 
 ic(sum(cards_count))
+
+exec_time = perf_counter() - timer
+ic(exec_time)
