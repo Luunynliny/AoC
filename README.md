@@ -38,12 +38,26 @@
     <a href="https://adventofcode.com/2023">2023</a>
 </summary>
 <table>
-    <tr>
-        <th>Day</th>
-        <th>Problem name</th>
-        <th>Completion</th>
-        <th>Execution time (s)</th>
-    </tr>
+    <thead>
+        <tr>
+            <th rowspan="2">Day</th>
+            <th rowspan="2">Problem name</th>
+            <th colspan="2">Completion</th>
+            <th colspan="2">Execution time (s)</th>
+        </tr>
+        <tr>
+            <th>Part 1</th>
+            <th>Part 2</th>
+            <th>Part 1</th>
+            <th>Part 2</th>
+        </tr>
+    </thead>
+    <!-- <tr>
+        <td>1</td>
+        <td><a href="https://adventofcode.com/2023/day/1">Trebuchet?!</a></td>
+        <td>✅</td>
+        <td></td>
+    </tr> -->
 </table>
 </details>
 
