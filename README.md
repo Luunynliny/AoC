@@ -62,12 +62,20 @@
             <td>0.047</td>
         </tr>
         <tr>
-            <td>1</td>
+            <td>2</td>
             <td><a href="https://adventofcode.com/2023/day/2">Cube Conundrum</a></td>
             <td>✅</td>
             <td>✅</td>
             <td>0.044</td>
             <td>0.044</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td><a href="https://adventofcode.com/2023/day/3">Gear Ratios</a></td>
+            <td>✅</td>
+            <td>✅</td>
+            <td>0.084</td>
+            <td>0.076</td>
         </tr>
     </tboby>
 </table>
