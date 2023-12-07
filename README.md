@@ -93,6 +93,14 @@
             <td>0.050</td>
             <td>642.96</td>
         </tr>
+        <tr>
+            <td>6</td>
+            <td><a href="https://adventofcode.com/2023/day/6">Wait For It</a></td>
+            <td>✅</td>
+            <td>✅</td>
+            <td>0.043</td>
+            <td>7.090</td>
+        </tr>
     </tboby>
 </table>
 </details>
