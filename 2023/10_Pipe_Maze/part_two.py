@@ -2,7 +2,7 @@ from time import perf_counter
 
 from icecream import ic
 
-example = "./example_one.txt"
+example = "./example_two.txt"
 puzzle = "./puzzle.txt"
 
 timer = perf_counter()
@@ -26,7 +26,7 @@ compatibily_dict = {
 }
 
 sx, sy = s_pos
-w, h = len(maze[0]), len(maze)
+w, h = len(maze), len(maze[0])
 
 # https://stackoverflow.com/a/38157488
 s_neighbors = [
@@ -90,14 +90,28 @@ def next_pos(pos, dir_, tile=None):
     return (x, y), dir_
 
 
-step_count = 0
+loop = [s_pos]
+
 while pos != s_pos:
+    loop.append(pos)
     pos, dir_ = next_pos(pos, dir_)
-    step_count += 1
 
-steps_farthest = (step_count + 1) // 2
+nb_points = len(loop)
 
-ic(steps_farthest)
+area = abs(
+    sum(
+        [
+            (loop[i][0] * loop[(i + 1) % nb_points][1])
+            - (loop[(i + 1) % nb_points][0] * loop[i][1])
+            for i in range(nb_points)
+        ]
+    )
+    // 2
+)
+
+enclosed_tile_count = area - (nb_points // 2) + 1
+
+ic(enclosed_tile_count)
 
 exec_time = perf_counter() - timer
 ic(exec_time)
