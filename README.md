@@ -130,6 +130,14 @@ My entries are not further optimized after completion, as I want them to reflect
             <td>0.050</td>
             <td>0.051</td>
         </tr>
+        <tr>
+            <td>10</td>
+            <td><a href="https://adventofcode.com/2023/day/10">Pipe Maze</a></td>
+            <td>✅</td>
+            <td>✅</td>
+            <td>0.058</td>
+            <td>0.067</td>
+        </tr>
     </tboby>
 </table>
 </details>
