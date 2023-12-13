@@ -154,6 +154,14 @@ My entries are not further optimized after completion, as I want them to reflect
             <td>3.733</td>
             <td>3.334</td>
         </tr>
+        <tr>
+            <td>12</td>
+            <td><a href="https://adventofcode.com/2023/day/12">Point of Incidence</a></td>
+            <td>✅</td>
+            <td>✅</td>
+            <td>0.063</td>
+            <td>0.073</td>
+        </tr>
     </tboby>
 </table>
 </details>
