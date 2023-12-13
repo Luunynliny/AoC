@@ -155,8 +155,8 @@ My entries are not further optimized after completion, as I want them to reflect
             <td>3.334</td>
         </tr>
         <tr>
-            <td>12</td>
-            <td><a href="https://adventofcode.com/2023/day/12">Point of Incidence</a></td>
+            <td>13</td>
+            <td><a href="https://adventofcode.com/2023/day/13">Point of Incidence</a></td>
             <td>✅</td>
             <td>✅</td>
             <td>0.063</td>
