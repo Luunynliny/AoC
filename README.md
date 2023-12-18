@@ -186,6 +186,22 @@ My entries are not further optimized after completion, as I want them to reflect
             <td>1.207</td>
             <td>8.623</td>
         </tr>
+        <tr>
+            <td>17</td>
+            <td><a href="https://adventofcode.com/2023/day/17">Clumsy Crucible</a></td>
+            <td>❌</td>
+            <td>❌</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>18</td>
+            <td><a href="https://adventofcode.com/2023/day/18">Lavaduct Lagoon</a></td>
+            <td>✅</td>
+            <td>✅</td>
+            <td>0.048</td>
+            <td>0.049</td>
+        </tr>
     </tboby>
 </table>
 </details>
