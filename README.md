@@ -210,6 +210,54 @@ My entries are not further optimized after completion, as I want them to reflect
             <td>0.064</td>
             <td></td>
         </tr>
+        <tr>
+            <td>20</td>
+            <td><a href="https://adventofcode.com/2023/day/20">Pulse Propagation</a></td>
+            <td>❌</td>
+            <td>❌</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>21</td>
+            <td><a href="https://adventofcode.com/2023/day/21">Step Counter</a></td>
+            <td>❌</td>
+            <td>❌</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>22</td>
+            <td><a href="https://adventofcode.com/2023/day/22">Sand Slabs</a></td>
+            <td>❌</td>
+            <td>❌</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>23</td>
+            <td><a href="https://adventofcode.com/2023/day/23">A Long Walk</a></td>
+            <td>❌</td>
+            <td>❌</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>24</td>
+            <td><a href="https://adventofcode.com/2023/day/24">Never Tell Me The Odds</a></td>
+            <td>❌</td>
+            <td>❌</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>25</td>
+            <td><a href="https://adventofcode.com/2023/day/25">Snowverload</a></td>
+            <td>❌</td>
+            <td>❌</td>
+            <td></td>
+            <td></td>
+        </tr>
     </tboby>
 </table>
 </details>
