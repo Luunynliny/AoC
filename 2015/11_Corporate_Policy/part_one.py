@@ -1,9 +1,10 @@
 import re
+from os import path
 from time import perf_counter
 
 from icecream import ic
 
-puzzle = "./puzzle.txt"
+puzzle = path.join(path.dirname(path.abspath(__file__)), "./puzzle.txt")
 
 timer = perf_counter()
 
