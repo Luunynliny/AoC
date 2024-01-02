@@ -63,48 +63,48 @@ My entries are not further optimized after completion, as I want them to reflect
             <td><a href="https://adventofcode.com/2023/day/1">Trebuchet?!</a></td>
             <td>✅</td>
             <td>✅</td>
-            <td>0.044</td>
-            <td>0.047</td>
+            <td>0.046</td>
+            <td>0.048</td>
         </tr>
         <tr>
             <td>2</td>
             <td><a href="https://adventofcode.com/2023/day/2">Cube Conundrum</a></td>
             <td>✅</td>
             <td>✅</td>
-            <td>0.044</td>
-            <td>0.044</td>
+            <td>0.045</td>
+            <td>0.046</td>
         </tr>
         <tr>
             <td>3</td>
             <td><a href="https://adventofcode.com/2023/day/3">Gear Ratios</a></td>
             <td>✅</td>
             <td>✅</td>
-            <td>0.084</td>
-            <td>0.076</td>
+            <td>0.085</td>
+            <td>0.075</td>
         </tr>
         <tr>
             <td>4</td>
             <td><a href="https://adventofcode.com/2023/day/4">Scratchcards</a></td>
             <td>✅</td>
             <td>✅</td>
-            <td>0.046</td>
             <td>0.045</td>
+            <td>0.046</td>
         </tr>
         <tr>
             <td>5</td>
             <td><a href="https://adventofcode.com/2023/day/5">If You Give A Seed A Fertilizer</a></td>
             <td>✅</td>
             <td>✅</td>
-            <td>0.050</td>
-            <td>642.96</td>
+            <td>0.046</td>
+            <td>628.044</td>
         </tr>
         <tr>
             <td>6</td>
             <td><a href="https://adventofcode.com/2023/day/6">Wait For It</a></td>
             <td>✅</td>
             <td>✅</td>
-            <td>0.043</td>
-            <td>7.090</td>
+            <td>0.044</td>
+            <td>6.894</td>
         </tr>
         <tr>
             <td>7</td>
@@ -119,8 +119,8 @@ My entries are not further optimized after completion, as I want them to reflect
             <td><a href="https://adventofcode.com/2023/day/8">Haunted Wasteland</a></td>
             <td>✅</td>
             <td>✅</td>
-            <td>0.141</td>
-            <td>0.573</td>
+            <td>0.127</td>
+            <td>0.601</td>
         </tr>
         <tr>
             <td>9</td>
@@ -135,7 +135,7 @@ My entries are not further optimized after completion, as I want them to reflect
             <td><a href="https://adventofcode.com/2023/day/10">Pipe Maze</a></td>
             <td>✅</td>
             <td>✅</td>
-            <td>0.058</td>
+            <td>0.060</td>
             <td>0.067</td>
         </tr>
         <tr>
@@ -143,32 +143,32 @@ My entries are not further optimized after completion, as I want them to reflect
             <td><a href="https://adventofcode.com/2023/day/11">Cosmic Expansion</a></td>
             <td>✅</td>
             <td>✅</td>
-            <td>0.083</td>
-            <td>0.084</td>
+            <td>0.085</td>
+            <td>0.086</td>
         </tr>
         <tr>
             <td>12</td>
             <td><a href="https://adventofcode.com/2023/day/12">Hot Springs</a></td>
             <td>✅</td>
             <td>✅</td>
-            <td>3.733</td>
-            <td>3.334</td>
+            <td>3.814</td>
+            <td>3.169</td>
         </tr>
         <tr>
             <td>13</td>
             <td><a href="https://adventofcode.com/2023/day/13">Point of Incidence</a></td>
             <td>✅</td>
             <td>✅</td>
-            <td>0.063</td>
-            <td>0.073</td>
+            <td>0.060</td>
+            <td>0.069</td>
         </tr>
         <tr>
             <td>14</td>
             <td><a href="https://adventofcode.com/2023/day/14">Parabolic Reflector Dish</a></td>
             <td>✅</td>
             <td>✅</td>
-            <td>0.102</td>
-            <td>5.609</td>
+            <td>0.060</td>
+            <td>5.754</td>
         </tr>
         <tr>
             <td>15</td>
@@ -183,8 +183,8 @@ My entries are not further optimized after completion, as I want them to reflect
             <td><a href="https://adventofcode.com/2023/day/16">The Floor Will Be Lava</a></td>
             <td>✅</td>
             <td>✅</td>
-            <td>1.207</td>
-            <td>8.623</td>
+            <td>1.241</td>
+            <td>8.625</td>
         </tr>
         <tr>
             <td>17</td>
@@ -200,14 +200,14 @@ My entries are not further optimized after completion, as I want them to reflect
             <td>✅</td>
             <td>✅</td>
             <td>0.048</td>
-            <td>0.049</td>
+            <td>0.050</td>
         </tr>
         <tr>
             <td>19</td>
             <td><a href="https://adventofcode.com/2023/day/19">Aplenty</a></td>
             <td>✅</td>
             <td>❌</td>
-            <td>0.064</td>
+            <td>0.065</td>
             <td></td>
         </tr>
         <tr>
