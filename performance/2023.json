@@ -1,0 +1,73 @@
+{
+    "01_Trebuchet": {
+        "part_one": 0.046,
+        "part_two": 0.048
+    },
+    "02_Cube_Conundrum": {
+        "part_one": 0.045,
+        "part_two": 0.046
+    },
+    "03_Gear_Ratios": {
+        "part_one": 0.085,
+        "part_two": 0.075
+    },
+    "04_Scratchcards": {
+        "part_one": 0.045,
+        "part_two": 0.046
+    },
+    "05_If_You_Give_A_Seed_A_Fertilizer": {
+        "part_one": 0.046,
+        "part_two": 628.044
+    },
+    "06_Wait_For_It": {
+        "part_one": 0.044,
+        "part_two": 6.894
+    },
+    "07_Camel_Cards": {
+        "part_one": 0.065,
+        "part_two": 0.066
+    },
+    "08_Haunted_Wasteland": {
+        "part_one": 0.127,
+        "part_two": 0.601
+    },
+    "09_Mirage_Maintenance": {
+        "part_one": 0.05,
+        "part_two": 0.051
+    },
+    "10_Pipe_Maze": {
+        "part_one": 0.06,
+        "part_two": 0.067
+    },
+    "11_Cosmic_Expansion": {
+        "part_one": 0.085,
+        "part_two": 0.086
+    },
+    "12_Hot_Springs": {
+        "part_one": 3.814,
+        "part_two": 3.169
+    },
+    "13_Point_of_Incidence": {
+        "part_one": 0.06,
+        "part_two": 0.069
+    },
+    "14_Parabolic_Reflector_Dish": {
+        "part_one": 0.061,
+        "part_two": 5.754
+    },
+    "15_Lens_Library": {
+        "part_one": 0.045,
+        "part_two": 0.051
+    },
+    "16_The Floor_Will_Be_Lava": {
+        "part_one": 1.241,
+        "part_two": 8.625
+    },
+    "18_Lavaduct_Lagoon": {
+        "part_one": 0.048,
+        "part_two": 0.05
+    },
+    "19_Aplenty": {
+        "part_one": 0.065
+    }
+}
