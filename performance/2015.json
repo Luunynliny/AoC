@@ -1,0 +1,81 @@
+{
+    "01_Not_Quite_Lisp": {
+        "part_one": 0.042,
+        "part_two": 0.044
+    },
+    "02_I_Was_Told_There_Would_Be_No_Math": {
+        "part_one": 0.045,
+        "part_two": 0.045
+    },
+    "03_Perfectly_Spherical_Houses_in_a_Vacuum": {
+        "part_one": 0.247,
+        "part_two": 0.234
+    },
+    "04_The_Ideal_Stocking_Stuffer": {
+        "part_one": 0.368,
+        "part_two": 9.501
+    },
+    "05_Doesnt_He_Have_Intern-Elves_For_This": {
+        "part_one": 0.045,
+        "part_two": 0.045
+    },
+    "06_Probably_a_Fire_Hazard": {
+        "part_one": 0.055,
+        "part_two": 0.269
+    },
+    "07_Some_Assembly_Required": {
+        "part_one": 0.052,
+        "part_two": 0.053
+    },
+    "08_Matchsticks": {
+        "part_one": 0.044,
+        "part_two": 0.043
+    },
+    "09_All_in_a_Single_Night": {
+        "part_one": 0.1,
+        "part_two": 0.1
+    },
+    "10_Elves_Look_Elves_Say": {
+        "part_one": 0.436,
+        "part_two": 5.74
+    },
+    "11_Corporate_Policy": {
+        "part_one": 0.295,
+        "part_two": 1.151
+    },
+    "12_JSAbacusFrameworkio": {
+        "part_one": 0.044,
+        "part_two": 0.045
+    },
+    "13_Knights_of_the_Dinner_Table": {
+        "part_one": 0.06,
+        "part_two": 0.171
+    },
+    "14_Reindeer_Olympics": {
+        "part_one": 0.045,
+        "part_two": 0.108
+    },
+    "15_Science_for_Hungry_People": {
+        "part_one": 4.393,
+        "part_two": 3.533
+    },
+    "16_Aunt_Sue": {
+        "part_one": 0.047,
+        "part_two": 0.049
+    },
+    "17_No_Such_Thing_as_Too_Much": {
+        "part_one": 5.729,
+        "part_two": 5.821
+    },
+    "18_Like_a_GIF_For_Your_Yard": {
+        "part_one": 5.551,
+        "part_two": 5.719
+    },
+    "19_Medicine_for_Rudolph": {
+        "part_one": 0.045
+    },
+    "20_Infinite_Elves_and_Infinite_House": {
+        "part_one": 19.318,
+        "part_two": 2.189
+    }
+}

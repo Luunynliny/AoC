@@ -63,48 +63,48 @@ My entries are not further optimized after completion, as I want them to reflect
             <td><a href="https://adventofcode.com/2023/day/1">Trebuchet?!</a></td>
             <td>✅</td>
             <td>✅</td>
-            <td>0.044</td>
-            <td>0.047</td>
+            <td>0.046</td>
+            <td>0.048</td>
         </tr>
         <tr>
             <td>2</td>
             <td><a href="https://adventofcode.com/2023/day/2">Cube Conundrum</a></td>
             <td>✅</td>
             <td>✅</td>
-            <td>0.044</td>
-            <td>0.044</td>
+            <td>0.045</td>
+            <td>0.046</td>
         </tr>
         <tr>
             <td>3</td>
             <td><a href="https://adventofcode.com/2023/day/3">Gear Ratios</a></td>
             <td>✅</td>
             <td>✅</td>
-            <td>0.084</td>
-            <td>0.076</td>
+            <td>0.085</td>
+            <td>0.075</td>
         </tr>
         <tr>
             <td>4</td>
             <td><a href="https://adventofcode.com/2023/day/4">Scratchcards</a></td>
             <td>✅</td>
             <td>✅</td>
-            <td>0.046</td>
             <td>0.045</td>
+            <td>0.046</td>
         </tr>
         <tr>
             <td>5</td>
             <td><a href="https://adventofcode.com/2023/day/5">If You Give A Seed A Fertilizer</a></td>
             <td>✅</td>
             <td>✅</td>
-            <td>0.050</td>
-            <td>642.96</td>
+            <td>0.046</td>
+            <td>628.044</td>
         </tr>
         <tr>
             <td>6</td>
             <td><a href="https://adventofcode.com/2023/day/6">Wait For It</a></td>
             <td>✅</td>
             <td>✅</td>
-            <td>0.043</td>
-            <td>7.090</td>
+            <td>0.044</td>
+            <td>6.894</td>
         </tr>
         <tr>
             <td>7</td>
@@ -119,8 +119,8 @@ My entries are not further optimized after completion, as I want them to reflect
             <td><a href="https://adventofcode.com/2023/day/8">Haunted Wasteland</a></td>
             <td>✅</td>
             <td>✅</td>
-            <td>0.141</td>
-            <td>0.573</td>
+            <td>0.127</td>
+            <td>0.601</td>
         </tr>
         <tr>
             <td>9</td>
@@ -135,7 +135,7 @@ My entries are not further optimized after completion, as I want them to reflect
             <td><a href="https://adventofcode.com/2023/day/10">Pipe Maze</a></td>
             <td>✅</td>
             <td>✅</td>
-            <td>0.058</td>
+            <td>0.060</td>
             <td>0.067</td>
         </tr>
         <tr>
@@ -143,32 +143,32 @@ My entries are not further optimized after completion, as I want them to reflect
             <td><a href="https://adventofcode.com/2023/day/11">Cosmic Expansion</a></td>
             <td>✅</td>
             <td>✅</td>
-            <td>0.083</td>
-            <td>0.084</td>
+            <td>0.085</td>
+            <td>0.086</td>
         </tr>
         <tr>
             <td>12</td>
             <td><a href="https://adventofcode.com/2023/day/12">Hot Springs</a></td>
             <td>✅</td>
             <td>✅</td>
-            <td>3.733</td>
-            <td>3.334</td>
+            <td>3.814</td>
+            <td>3.169</td>
         </tr>
         <tr>
             <td>13</td>
             <td><a href="https://adventofcode.com/2023/day/13">Point of Incidence</a></td>
             <td>✅</td>
             <td>✅</td>
-            <td>0.063</td>
-            <td>0.073</td>
+            <td>0.060</td>
+            <td>0.069</td>
         </tr>
         <tr>
             <td>14</td>
             <td><a href="https://adventofcode.com/2023/day/14">Parabolic Reflector Dish</a></td>
             <td>✅</td>
             <td>✅</td>
-            <td>0.102</td>
-            <td>5.609</td>
+            <td>0.060</td>
+            <td>5.754</td>
         </tr>
         <tr>
             <td>15</td>
@@ -183,8 +183,8 @@ My entries are not further optimized after completion, as I want them to reflect
             <td><a href="https://adventofcode.com/2023/day/16">The Floor Will Be Lava</a></td>
             <td>✅</td>
             <td>✅</td>
-            <td>1.207</td>
-            <td>8.623</td>
+            <td>1.241</td>
+            <td>8.625</td>
         </tr>
         <tr>
             <td>17</td>
@@ -200,14 +200,14 @@ My entries are not further optimized after completion, as I want them to reflect
             <td>✅</td>
             <td>✅</td>
             <td>0.048</td>
-            <td>0.049</td>
+            <td>0.050</td>
         </tr>
         <tr>
             <td>19</td>
             <td><a href="https://adventofcode.com/2023/day/19">Aplenty</a></td>
             <td>✅</td>
             <td>❌</td>
-            <td>0.064</td>
+            <td>0.065</td>
             <td></td>
         </tr>
         <tr>
@@ -253,6 +253,230 @@ My entries are not further optimized after completion, as I want them to reflect
         <tr>
             <td>25</td>
             <td><a href="https://adventofcode.com/2023/day/25">Snowverload</a></td>
+            <td>❌</td>
+            <td>❌</td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tboby>
+</table>
+</details>
+
+<details>
+<summary>
+    <a href="https://adventofcode.com/2015">2015</a>
+</summary>
+<table>
+    <thead>
+        <tr>
+            <th rowspan="2">Day</th>
+            <th rowspan="2">Problem name</th>
+            <th colspan="2">Completion</th>
+            <th colspan="2">Execution time (s)</th>
+        </tr>
+        <tr>
+            <th>Part 1</th>
+            <th>Part 2</th>
+            <th>Part 1</th>
+            <th>Part 2</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td><a href="https://adventofcode.com/2015/day/1">Not Quite Lisp</a></td>
+            <td>✅</td>
+            <td>✅</td>
+            <td>0.042</td>
+            <td>0.044</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td><a href="https://adventofcode.com/2015/day/2">I Was Told There Would Be No Math</a></td>
+            <td>✅</td>
+            <td>✅</td>
+            <td>0.045</td>
+            <td>0.045</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td><a href="https://adventofcode.com/2015/day/3">Perfectly Spherical Houses in a Vacuum</a></td>
+            <td>✅</td>
+            <td>✅</td>
+            <td>0.247</td>
+            <td>0.234</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td><a href="https://adventofcode.com/2015/day/4">The Ideal Stocking Stuffer</a></td>
+            <td>✅</td>
+            <td>✅</td>
+            <td>0.368</td>
+            <td>9.501</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td><a href="https://adventofcode.com/2015/day/5">Doesn't He Have Intern-Elves For This?</a></td>
+            <td>✅</td>
+            <td>✅</td>
+            <td>0.045</td>
+            <td>0.045</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td><a href="https://adventofcode.com/2015/day/6">Probably a Fire Hazard</a></td>
+            <td>✅</td>
+            <td>✅</td>
+            <td>0.055</td>
+            <td>0.269</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td><a href="https://adventofcode.com/2015/day/7">Some Assembly Required</a></td>
+            <td>✅</td>
+            <td>✅</td>
+            <td>0.052</td>
+            <td>0.053</td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td><a href="https://adventofcode.com/2015/day/8">Matchsticks</a></td>
+            <td>✅</td>
+            <td>✅</td>
+            <td>0.044</td>
+            <td>0.043</td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td><a href="https://adventofcode.com/2015/day/9">All in a Single Night</a></td>
+            <td>✅</td>
+            <td>✅</td>
+            <td>0.100</td>
+            <td>0.100</td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td><a href="https://adventofcode.com/2015/day/10">Elves Look, Elves Say</a></td>
+            <td>✅</td>
+            <td>✅</td>
+            <td>0.436</td>
+            <td>5.740</td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td><a href="https://adventofcode.com/2015/day/11">Corporate Policy</a></td>
+            <td>✅</td>
+            <td>✅</td>
+            <td>0.295</td>
+            <td>1.151</td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td><a href="https://adventofcode.com/2015/day/12">JSAbacusFramework.io</a></td>
+            <td>✅</td>
+            <td>✅</td>
+            <td>0.044</td>
+            <td>0.045</td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td><a href="https://adventofcode.com/2015/day/13">Knights of the Dinner Table</a></td>
+            <td>✅</td>
+            <td>✅</td>
+            <td>0.060</td>
+            <td>0.171</td>
+        </tr>
+        <tr>
+            <td>14</td>
+            <td><a href="https://adventofcode.com/2015/day/14">Reindeer Olympics</a></td>
+            <td>✅</td>
+            <td>✅</td>
+            <td>0.045</td>
+            <td>0.108</td>
+        </tr>
+        <tr>
+            <td>15</td>
+            <td><a href="https://adventofcode.com/2015/day/15">Science for Hungry People</a></td>
+            <td>✅</td>
+            <td>✅</td>
+            <td>4.393</td>
+            <td>3.533</td>
+        </tr>
+        <tr>
+            <td>16</td>
+            <td><a href="https://adventofcode.com/2015/day/16">Aunt Sue</a></td>
+            <td>✅</td>
+            <td>✅</td>
+            <td>0.047</td>
+            <td>0.049</td>
+        </tr>
+        <tr>
+            <td>17</td>
+            <td><a href="https://adventofcode.com/2015/day/17">No Such Thing as Too Much</a></td>
+            <td>✅</td>
+            <td>✅</td>
+            <td>5.729</td>
+            <td>5.821</td>
+        </tr>
+        <tr>
+            <td>18</td>
+            <td><a href="https://adventofcode.com/2015/day/18">Like a GIF For Your Yard</a></td>
+            <td>✅</td>
+            <td>✅</td>
+            <td>5.551</td>
+            <td>5.719</td>
+        </tr>
+        <tr>
+            <td>19</td>
+            <td><a href="https://adventofcode.com/2015/day/19">Medicine for Rudolph</a></td>
+            <td>✅</td>
+            <td>❌</td>
+            <td>0.045</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>20</td>
+            <td><a href="https://adventofcode.com/2015/day/20">Infinite Elves and Infinite Houses</a></td>
+            <td>✅</td>
+            <td>✅</td>
+            <td>19.318</td>
+            <td>2.189</td>
+        </tr>
+        <tr>
+            <td>21</td>
+            <td><a href="https://adventofcode.com/2023/day/21">RPG Simulator 20XX</a></td>
+            <td>❌</td>
+            <td>❌</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>22</td>
+            <td><a href="https://adventofcode.com/2023/day/22">Wizard Simulator 20XX</a></td>
+            <td>❌</td>
+            <td>❌</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>23</td>
+            <td><a href="https://adventofcode.com/2015/day/23">Opening the Turing Lock</a></td>
+            <td>❌</td>
+            <td>❌</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>24</td>
+            <td><a href="https://adventofcode.com/2015/day/24">It Hangs in the Balance</a></td>
+            <td>❌</td>
+            <td>❌</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>25</td>
+            <td><a href="https://adventofcode.com/2015/day/25">Let It Snow</a></td>
             <td>❌</td>
             <td>❌</td>
             <td></td>
