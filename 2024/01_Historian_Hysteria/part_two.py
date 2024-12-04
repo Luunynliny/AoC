@@ -18,9 +18,9 @@ with open(puzzle) as f:
         left.append(int(l))
         right.append(int(r))
 
-distance = sum([abs(l - r) for l, r in zip(sorted(left), sorted(right))])
+similarity_score = sum([l * right.count(l) for l in left])
 
-ic(distance)
+ic(similarity_score)
 
 exec_time = perf_counter() - timer
 ic(exec_time)
